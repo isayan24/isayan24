@@ -24,16 +24,13 @@ Full stack systems with a frontend-first mindset. I own features end-to-end — 
 ## Projects
 
 ### 🍽️ Delycia — Multi-tenant restaurant SaaS & contactless ordering platform
-- [delycia.com](https://delycia.com)
-- [GitHub Repository](https://github.com/isayan24/Delycia)
+[Live](https://delycia.com) · [Repository](https://github.com/isayan24/Delycia)
 
 ### 🏥 NexPharm — Offline-first pharmacy inventory & POS management system
-- [keep-nexpharm.vercel.app](https://keep-nexpharm.vercel.app/)
-- [GitHub Repository](https://github.com/isayan24/NexPharm.git)
+[Live](https://keep-nexpharm.vercel.app/) · [Repository](https://github.com/isayan24/NexPharm.git)
 
 ### ✨ PrepMind — AI-powered interview prep & resume generation platform
-- [prepmind-geene.vercel.app](https://prepmind-geene.vercel.app/)
-- [GitHub Repository](https://github.com/isayan24/PrepMind)
+[Live](https://prepmind-geene.vercel.app/) · [Repository](https://github.com/isayan24/PrepMind)
 
 ---
 
