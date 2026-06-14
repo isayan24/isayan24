@@ -40,7 +40,7 @@ Full stack systems with a frontend-first mindset. I own features end-to-end — 
 |---|---|
 | **Frontend** | React · Next.js · TanStack Start · TypeScript · Tailwind CSS · Zustand · Radix UI |
 | **Backend** | Node.js · Express · WebSockets · Socket.IO · REST API |
-| **Database** | MySQL · PostgreSQL · MongoDB · Redis · Supabase |
+| **Database** | MySQL · PostgreSQL · MongoDB · Redis · Supabase · Prisma ORM |
 | **Auth & DevOps** | JWT · Docker · VPS · AWS · Vercel · Git |
 | **AI & Tools** | Google Gemini API · Puppeteer · PowerSync · Twilio |
 
