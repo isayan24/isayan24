@@ -26,3 +26,5 @@ I ship production systems — real-time, multi-tenant, AI-powered — that solve
 [sayandas.workmail@gmail.com](mailto:sayandas.workmail@gmail.com) · [linkedin.com/in/sayandas24](https://linkedin.com/in/sayandas24)
 
 </div>
+
+![Visitor Count](https://glitch.me)
