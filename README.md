@@ -1,8 +1,4 @@
-<div align="center">
-
 I ship production systems — real-time, multi-tenant, AI-powered — that solve problems people actually have.
-
-</div>
 
 ## Projects
 
@@ -14,15 +10,17 @@ I ship production systems — real-time, multi-tenant, AI-powered — that solve
 
 | Layer | Technologies |
 |---|---|
-| **Frontend** | React · Next.js · TanStack Start · TypeScript · Tailwind CSS · Zustand · Radix UI |
-| **Backend** | Node.js · Express · WebSockets · Socket.IO · REST API |
+| **Frontend** | React · Next.js · TanStack Start · TypeScript · Tailwind CSS · Zustand · Radix UI · Jotai |
+| **Backend** | Node.js · Express · Fatify · WebSockets · Socket.IO · REST API · BullMQ |
 | **Database** | MySQL · PostgreSQL · MongoDB · Redis · Supabase · Prisma ORM |
 | **Auth & DevOps** | JWT · Docker · VPS · AWS · Vercel · Git |
 | **AI & Tools** | Google Gemini API · Puppeteer · PowerSync · Twilio |
 
+---
+
 <div align="center">
 
 **Let's build something that matters.**
-[sayandas.workmail@gmail.com](mailto:sayandas.workmail@gmail.com) · [linkedin.com/in/sayandas24](https://linkedin.com/in/sayandas24)
+[Contact](mailto:sayandas.workmail@gmail.com) · [LinkedIn](https://linkedin.com/in/sayandas24) · [Me](https://sayanthisis.vercel.app/)
 
 </div>
