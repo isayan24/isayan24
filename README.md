@@ -6,6 +6,7 @@ I ship production systems — real-time, multi-tenant, AI-powered — that solve
 ### 🏥 NexPharm — Offline-first pharmacy inventory & POS management system · [Live](https://keep-nexpharm.vercel.app/) 
 ---
 
+
 ## Tech Stack
 
 | Layer | Technologies |
