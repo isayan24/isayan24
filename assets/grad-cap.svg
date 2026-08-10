@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14" fill="none">
+  <path d="M1 5.5L7 3l6 2.5L7 8 1 5.5z" stroke="#a371f7" stroke-width="1.2" stroke-linejoin="round"/>
+  <path d="M3.5 7v2.5c0 .8 1.5 1.5 3.5 1.5s3.5-.7 3.5-1.5V7" stroke="#58a6ff" stroke-width="1.2" stroke-linecap="round"/>
+  <path d="M13 5.5v3.5" stroke="#39d353" stroke-width="1.2" stroke-linecap="round">
+    <animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite"/>
+  </path>
+</svg>

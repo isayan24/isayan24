@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="140" viewBox="0 0 720 140" role="img" aria-label="sourabh@melbourne terminal">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#39d353"/>
+      <stop offset="50%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#a371f7"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="720" height="140" rx="10" fill="url(#bg)" stroke="url(#accent)" stroke-width="1.5"/>
+
+  <circle cx="28" cy="22" r="5" fill="#ff5f56"/>
+  <circle cx="46" cy="22" r="5" fill="#ffbd2e"/>
+  <circle cx="64" cy="22" r="5" fill="#27c93f"/>
+
+  <text x="92" y="26" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">sourabh - zsh</text>
+
+  <text x="28" y="68" fill="#39d353" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18" font-weight="700">sourabh@melbourne</text>
+  <text x="248" y="68" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18">:</text>
+  <text x="262" y="68" fill="#58a6ff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18">~</text>
+  <text x="280" y="68" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18">$ whoami</text>
+  <rect x="392" y="52" width="9" height="20" fill="#58a6ff" opacity="0.85"/>
+
+  <text x="28" y="100" fill="#a371f7" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15">&gt;</text>
+  <text x="48" y="100" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15">software engineer · agentic AI · developer tooling</text>
+
+  <text x="28" y="122" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">Melbourne · MSc AI @ UniMelb · 3+ yrs</text>
+</svg>

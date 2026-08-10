@@ -1,27 +1,27 @@
-I ship production systems — real-time, multi-tenant, AI-powered — that solve problems people actually have.
+I love building real-time, multi-tenant, AI-powered production systems that solve problems people actually have.
 
-## Projects
+```bash
+$ cat recently.md
+▸ Working as a Full-stack Dev Intern
+▸ Learning AI agent workflows
+▸ Shipped Delycia — a multi-tenant restaurant SaaS
 
-### 🍽️ Delycia — Multi-tenant restaurant SaaS & contactless ordering platform · [Live](https://delycia.com) 
-### 🏥 NexPharm — Offline-first pharmacy inventory & POS management system · [Live](https://keep-nexpharm.vercel.app/) 
----
+$ ls ./stack
+▸ frontend    Next.js · TanStack Start · TypeScript · Zustand · Radix UI · Jotai
+▸ backend     Node.js · Express · Fastify · WebSockets · Socket.IO · REST API · BullMQ
+▸ database    MySQL · PostgreSQL · MongoDB · Redis · Supabase · Prisma ORM
+▸ devops      CI/CD · Docker · VPS · AWS · Vercel · Git
+▸ AI & tools  Google Gemini API · Puppeteer · PowerSync · Twilio
+```
 
+<img src="https://raw.githubusercontent.com/isayan24/isayan24/main/assets/grad-cap.svg" width="14" height="14" alt="" align="absmiddle" /> &nbsp;**Bachelor of Technology** (Final Year) · Agentic AI · Full-stack · System Design
 
-## Tech Stack
+<br/>
 
-| Layer | Technologies |
-|---|---|
-| **Frontend** | React · Next.js · TanStack Start · TypeScript · Tailwind CSS · Zustand · Radix UI · Jotai |
-| **Backend** | Node.js · Express · Fatify · WebSockets · Socket.IO · REST API · BullMQ |
-| **Database** | MySQL · PostgreSQL · MongoDB · Redis · Supabase · Prisma ORM |
-| **Auth & DevOps** | JWT · Docker · VPS · AWS · Vercel · Git |
-| **AI & Tools** | Google Gemini API · Puppeteer · PowerSync · Twilio |
-
----
-
-<div align="center">
-
-**Let's build something that matters.**
-[Contact](mailto:sayandas.workmail@gmail.com) · [LinkedIn](https://linkedin.com/in/sayandas24) · [Me](https://sayanthisis.vercel.app/)
-
-</div>
+<p>
+  <a href="https://sayanthisis.vercel.app/"><img src="https://raw.githubusercontent.com/isayan24/isayan24/main/assets/link.svg" width="14" height="14" alt="" align="absmiddle" /> portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/sayandas24/"><img src="https://raw.githubusercontent.com/isayan24/isayan24/main/assets/linkedin.svg" width="14" height="14" alt="" align="absmiddle" /> linkedin</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:sayandas.workmail@gmail.com"><img src="https://raw.githubusercontent.com/isayan24/isayan24/main/assets/mail.svg" width="14" height="14" alt="" align="absmiddle" /> email</a>
+</p>
