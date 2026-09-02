@@ -19,7 +19,7 @@ $ ls ./stack
 <br/>
 
 <p>
-  <a href="https://sayanthisis.vercel.app/"><img src="https://raw.githubusercontent.com/isayan24/isayan24/main/assets/link.svg" width="14" height="14" alt="" align="absmiddle" /> portfolio</a>
+  <a href="https://syan.space/"><img src="https://raw.githubusercontent.com/isayan24/isayan24/main/assets/link.svg" width="14" height="14" alt="" align="absmiddle" /> portfolio</a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/sayandas24/"><img src="https://raw.githubusercontent.com/isayan24/isayan24/main/assets/linkedin.svg" width="14" height="14" alt="" align="absmiddle" /> linkedin</a>
   &nbsp;·&nbsp;
