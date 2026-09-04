@@ -7,11 +7,11 @@ $ cat recently.md
 ▸ Shipped Delycia — a multi-tenant restaurant SaaS
 
 $ ls ./stack
-▸ frontend    Next.js · TanStack Start · TypeScript · Zustand · Radix UI · Jotai
+▸ frontend    React · Next.js · TanStack · TypeScript · Zustand · Radix UI · Jotai
 ▸ backend     Node.js · Express · Fastify · WebSockets · Socket.IO · REST API · BullMQ
 ▸ database    MySQL · PostgreSQL · MongoDB · Redis · Supabase · Prisma ORM
 ▸ devops      CI/CD · Docker · VPS · AWS · Vercel · Git
-▸ AI & tools  Google Gemini API · Puppeteer · PowerSync · Twilio
+▸ AI & tools  LLM · RAG · VectorDB · Puppeteer · PowerSync · Twilio
 ```
 
 <img src="https://raw.githubusercontent.com/isayan24/isayan24/main/assets/grad-cap.svg" width="14" height="14" alt="" align="absmiddle" /> &nbsp;**Bachelor of Technology** (Final Year) · Agentic AI · Full-stack · System Design
